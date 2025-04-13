@@ -1,4 +1,4 @@
-
+# DONE
 # Required Hardwares: </br>
 - 1x Arduino UNO R3
 - 2x Servo Motor
